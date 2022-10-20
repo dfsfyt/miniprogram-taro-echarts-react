@@ -1,0 +1,35 @@
+{
+    "miniprogramRoot": "dist/",
+    "projectname": "ai-pe",
+    "description": "智慧体育",
+    "setting": {
+        "urlCheck": true,
+        "es6": true,
+        "enhance": true,
+        "compileHotReLoad": false,
+        "postcss": true,
+        "minified": true,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        },
+        "minifyWXSS": true,
+        "minifyWXML": true,
+        "ignoreUploadUnusedFiles": true,
+        "uglifyFileName": false
+    },
+    "compileType": "miniprogram",
+    "libVersion": "2.26.2",
+    "srcMiniprogramRoot": "dist/",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "condition": {},
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    },
+    "appid": "wxa317f35ef9621d83"
+}

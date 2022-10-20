@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "ai-pe",
+  "wx0de635d86cb1a231": "testwx0de635d86cb1a231",
+  "setting": {
+    "es6": true,
+    "minified": false
+  }
+}
